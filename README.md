@@ -1,5 +1,7 @@
 # projet_commande
 
+https://erictruchot.github.io/projet_commande/
+
 cahier des charges:
 - connexion /inscription
 - page client: il peux commander et voir le status
